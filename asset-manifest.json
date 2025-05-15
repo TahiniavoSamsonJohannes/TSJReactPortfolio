@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TSJReactPortfolio/static/css/main.dcf981d1.css",
+    "main.js": "/TSJReactPortfolio/static/js/main.d1e58773.js",
+    "static/media/portfolio2.png": "/TSJReactPortfolio/static/media/portfolio2.4ca604556ca916be2c78.png",
+    "static/media/me.png": "/TSJReactPortfolio/static/media/me.52e5c7319f2a3ce90481.png",
+    "static/media/portfolio3.png": "/TSJReactPortfolio/static/media/portfolio3.871d347d3e88cf5369d0.png",
+    "static/media/portfolio4.png": "/TSJReactPortfolio/static/media/portfolio4.1bf20b39bb639ca9b080.png",
+    "static/media/Poppins-Light.ttf": "/TSJReactPortfolio/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/TSJReactPortfolio/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/TSJReactPortfolio/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/portfolio1.png": "/TSJReactPortfolio/static/media/portfolio1.592633133bef1a9cd7ea.png",
+    "static/media/Poppins-SemiBold.ttf": "/TSJReactPortfolio/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/CV_TSJ.pdf": "/TSJReactPortfolio/static/media/CV_TSJ.2ca93b33d73ff736f8fe.pdf",
+    "index.html": "/TSJReactPortfolio/index.html",
+    "main.dcf981d1.css.map": "/TSJReactPortfolio/static/css/main.dcf981d1.css.map",
+    "main.d1e58773.js.map": "/TSJReactPortfolio/static/js/main.d1e58773.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf981d1.css",
+    "static/js/main.d1e58773.js"
+  ]
+}
