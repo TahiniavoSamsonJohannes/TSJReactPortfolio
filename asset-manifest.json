@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TSJReactPortfolio/static/css/main.dcf981d1.css",
-    "main.js": "/TSJReactPortfolio/static/js/main.d1e58773.js",
+    "main.css": "/TSJReactPortfolio/static/css/main.b373e1dd.css",
+    "main.js": "/TSJReactPortfolio/static/js/main.9f6855f1.js",
     "static/media/portfolio2.png": "/TSJReactPortfolio/static/media/portfolio2.4ca604556ca916be2c78.png",
     "static/media/me.png": "/TSJReactPortfolio/static/media/me.52e5c7319f2a3ce90481.png",
     "static/media/portfolio3.png": "/TSJReactPortfolio/static/media/portfolio3.871d347d3e88cf5369d0.png",
@@ -13,11 +13,11 @@
     "static/media/Poppins-SemiBold.ttf": "/TSJReactPortfolio/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
     "static/media/CV_TSJ.pdf": "/TSJReactPortfolio/static/media/CV_TSJ.2ca93b33d73ff736f8fe.pdf",
     "index.html": "/TSJReactPortfolio/index.html",
-    "main.dcf981d1.css.map": "/TSJReactPortfolio/static/css/main.dcf981d1.css.map",
-    "main.d1e58773.js.map": "/TSJReactPortfolio/static/js/main.d1e58773.js.map"
+    "main.b373e1dd.css.map": "/TSJReactPortfolio/static/css/main.b373e1dd.css.map",
+    "main.9f6855f1.js.map": "/TSJReactPortfolio/static/js/main.9f6855f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcf981d1.css",
-    "static/js/main.d1e58773.js"
+    "static/css/main.b373e1dd.css",
+    "static/js/main.9f6855f1.js"
   ]
 }
